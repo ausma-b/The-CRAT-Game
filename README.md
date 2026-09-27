@@ -37,13 +37,6 @@ python3 -m http.server 8000
 
 Then go to http://localhost:8000.
 
-## Deploying
-
-Any static host works. Two common options:
-
-- **GitHub Pages:** push the repo, then go to *Settings → Pages*. Set the source to the default branch and the root folder.
-- **Vercel or Netlify:** import the repo with no build command and the output directory set to the repo root.
-
 ## Libraries
 
 These load from CDNs in `index.html`, pinned to exact versions:
