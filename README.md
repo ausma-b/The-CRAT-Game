@@ -4,6 +4,8 @@ A papercraft teaching game and readings quiz on **Cyber Routine Activity Theory 
 
 It is a static site: no build step, no server, no accounts, and nothing is stored in the browser. Refreshing the page starts again.
 
+Acknowledgement: The foundational ideas in this game were built by Dr Andrew Childs, Griffith University (also referred to by the students as the G.O.A.T.).
+
 ## Files
 
 ```
